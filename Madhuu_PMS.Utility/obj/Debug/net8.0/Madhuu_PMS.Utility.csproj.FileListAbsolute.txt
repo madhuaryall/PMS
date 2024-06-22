@@ -1,0 +1,14 @@
+F:\Madhuu_PMS.Utility\bin\Debug\net8.0\Madhuu_PMS.Utility.deps.json
+F:\Madhuu_PMS.Utility\bin\Debug\net8.0\Madhuu_PMS.Utility.runtimeconfig.json
+F:\Madhuu_PMS.Utility\bin\Debug\net8.0\Madhuu_PMS.Utility.dll
+F:\Madhuu_PMS.Utility\bin\Debug\net8.0\Madhuu_PMS.Utility.pdb
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\Madhuu_PMS.Utility.csproj.AssemblyReference.cache
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\Madhuu_PMS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\Madhuu_PMS.Utility.AssemblyInfoInputs.cache
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\Madhuu_PMS.Utility.AssemblyInfo.cs
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\Madhuu_PMS.Utility.csproj.CoreCompileInputs.cache
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\Madhuu_PMS.Utility.dll
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\refint\Madhuu_PMS.Utility.dll
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\Madhuu_PMS.Utility.pdb
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\Madhuu_PMS.Utility.genruntimeconfig.cache
+F:\Madhuu_PMS.Utility\obj\Debug\net8.0\ref\Madhuu_PMS.Utility.dll
