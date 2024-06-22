@@ -4729,11 +4729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Infrastructure\\Madhuu_PMS.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Infrastructure\\Madhuu_PMS.Infrastructure.csproj",
       "projectName": "Madhuu_PMS.Infrastructure",
-      "projectPath": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Infrastructure\\Madhuu_PMS.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Infrastructure\\Madhuu_PMS.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Madhu Aryal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Madhu Aryal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4750,8 +4750,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj": {
-              "projectPath": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj"
+            "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj": {
+              "projectPath": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj"
             }
           }
         }

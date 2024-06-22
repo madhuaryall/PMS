@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Madhuu_PMS.Utility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4332b1fd4111d5a83a505355ef18083a86fef199")]
 [assembly: System.Reflection.AssemblyProductAttribute("Madhuu_PMS.Utility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Madhuu_PMS.Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

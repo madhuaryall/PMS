@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj": {}
+    "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj": {
+    "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj",
         "projectName": "Madhuu_PMS.Model",
-        "projectPath": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj",
+        "projectPath": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Model\\Madhuu_PMS.Model.csproj",
         "packagesPath": "C:\\Users\\Madhu Aryal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Model\\obj\\",
+        "outputPath": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Madhu Aryal\\AppData\\Roaming\\NuGet\\NuGet.Config",

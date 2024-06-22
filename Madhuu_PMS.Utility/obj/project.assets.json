@@ -4329,11 +4329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Utility\\Madhuu_PMS.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Utility\\Madhuu_PMS.Utility.csproj",
       "projectName": "Madhuu_PMS.Utility",
-      "projectPath": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Utility\\Madhuu_PMS.Utility.csproj",
+      "projectPath": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Utility\\Madhuu_PMS.Utility.csproj",
       "packagesPath": "C:\\Users\\Madhu Aryal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Madhu Aryal\\Desktop\\PMS\\Madhuu_PMS.Utility\\obj\\",
+      "outputPath": "C:\\Users\\Madhu Aryal\\Desktop\\HI\\PMS\\Madhuu_PMS.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Madhu Aryal\\AppData\\Roaming\\NuGet\\NuGet.Config",
